@@ -17,15 +17,15 @@ Prerequisites:
 
 [sakshi-terraform]
 
-aws_access_key_id = fdhsgfhkghdk
+aws_access_key_id = ************
 
-aws_secret_access_key = gAHag1iZcHy/4i+5wFhd18/UyaXMeHD8SedhhfKl
+aws_secret_access_key = *************************************
 
 [default]
 
-aws_access_key_id = AKIAWUL6ZTMAWDXEPC4D
+aws_access_key_id = *************
 
-aws_secret_access_key = gAHag1iZcHy/4i+5wFhd18/UyaXMeHD8SSGnwbKl
+aws_secret_access_key = ***********************************
 
 ## 3. Terraform Init
 When you create a new configuration — or check out an existing configuration from version control — you need to initialize the directory with terraform init.
