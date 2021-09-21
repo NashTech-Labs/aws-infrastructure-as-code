@@ -11,7 +11,7 @@ Prerequisites:
 
  ## 1. Cloning repository
 
- git clone https://Viswam_pathipati@bitbucket.org/rightdata-knoldus/devops.git
+ git clone https://github.com/knoldus/aws-infrastructure-as-code.git
 
 ## 2. Open the '.aws/credentials' file and configure the following values
 
